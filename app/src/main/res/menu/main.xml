@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Add"
+        android:id="@+id/add"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_add_black_48"
+
+        />
+    <item android:title="detail"
+        android:id="@+id/detail"
+        android:icon="@drawable/baseline_new_releases_black_48"
+        app:showAsAction="always"/>
+</menu>
